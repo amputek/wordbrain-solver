@@ -2,9 +2,7 @@ aardvark
 abacus
 abbey
 abdomen
-abolishment
 abroad
-abyssinian
 accelerant
 accelerator
 accompanist
@@ -14,7 +12,6 @@ accountant
 achieve
 achiever
 acid
-acknowledgment
 acoustic
 acoustics
 acrylic
@@ -40,8 +37,6 @@ advertising
 advice
 affair
 affect
-afghanistan
-africa
 aftermath
 afternoon
 aftershave
@@ -64,13 +59,11 @@ airplane
 airport
 airship
 alarm
-alb
 albatross
 alcohol
 alcove
 alder
 algebra
-algeria
 alibi
 allergist
 alley
@@ -79,10 +72,9 @@ alloy
 almanac
 almond
 alpaca
-alpenglow
-alpenhorn
 alpha
 alphabet
+alpine
 alternative
 altitude
 alto
@@ -95,18 +87,12 @@ america
 amount
 amusement
 anagram
-analgesia
 analog
 analysis
 analyst
 anatomy
-anesthesiology
-anethesiologist
 anger
-angiosperm
 angle
-angora
-angstrom
 anguish
 animal
 anime
@@ -120,7 +106,6 @@ antarctica
 anteater
 antechamber
 antelope
-anthony
 anthropology
 antler
 anybody
@@ -128,7 +113,6 @@ anything
 anywhere
 apartment
 ape
-aperitif
 apology
 apparatus
 apparel
@@ -149,9 +133,7 @@ archeology
 archer
 architect
 architecture
-arch-rival
 area
-argentina
 argument
 aries
 arithmetic
@@ -159,21 +141,16 @@ arm
 armadillo
 armament
 armchair
-armenian
 armoire
 armor
-arm-rest
 army
 arrival
 arrow
 art
 artichoke
-artificer
 ascot
 ash
-ashram
 ashtray
-asia
 asparagus
 asphalt
 assignment
@@ -181,8 +158,6 @@ assistance
 associate
 association
 asterisk
-astrakhan
-astrolabe
 astrologer
 astrology
 astronomy
@@ -198,7 +173,6 @@ attack
 attempt
 attendant
 attention
-attenuation
 attic
 attitude
 attorney
@@ -208,7 +182,6 @@ auditorium
 august
 aunt
 australia
-australian
 author
 authorisation
 authority
@@ -345,7 +318,6 @@ bengal
 beret
 berry
 bestseller
-best-seller
 betty
 beverage
 beyond
@@ -355,7 +327,6 @@ bid
 bidet
 bifocals
 big
-big-rig
 bijou
 bike
 bikini
@@ -369,7 +340,6 @@ bird
 birdbath
 birdcage
 birdhouse
-bird-watcher
 birth
 birthday
 bit
@@ -404,7 +374,6 @@ blueberry
 boar
 board
 boat
-boat-building
 boatload
 boatyard
 bobcat
@@ -438,7 +407,6 @@ botany
 bottle
 bottling
 bottom
-bottom-line
 boudoir
 bough
 boundary
@@ -496,7 +464,6 @@ brood
 brook
 broom
 brother
-brother-in-law
 brow
 brown
 brush
@@ -517,7 +484,6 @@ bulb
 bull
 bulldozer
 bullet
-bull-fighter
 bumper
 bun
 bunch
@@ -528,7 +494,6 @@ burglar
 burlesque
 burma
 burn
-burn-out
 burst
 bus
 bush
@@ -555,7 +520,6 @@ cadet
 cafe
 caftan
 cake
-calcification
 calculation
 calculator
 calculus
@@ -592,7 +556,6 @@ cape
 capital
 capitulation
 capon
-cappelletti
 cappuccino
 capricorn
 captain
@@ -646,7 +609,6 @@ cauliflower
 cause
 caution
 cave
-c-clamp
 cd
 ceiling
 celebration
@@ -733,7 +695,6 @@ china
 chinese
 chino
 chipmunk
-chit-chat
 chivalry
 chive
 chocolate
@@ -894,7 +855,6 @@ constellation
 construction
 consul
 consulate
-contact lens
 contagion
 contest
 context
@@ -911,10 +871,7 @@ cook
 cookie
 cooking
 coonskin
-cope
-cop-out
 copper
-co-producer
 copy
 copyright
 copywriter
@@ -943,7 +900,6 @@ councilor
 councilperson
 councilwoman
 counter
-counter-force
 countess
 country
 couple
@@ -979,7 +935,6 @@ credenza
 credit
 creditor
 creek
-creme brulee
 crest
 crew
 crib
@@ -998,8 +953,6 @@ croissant
 crook
 crop
 cross
-cross-contamination
-cross-stitch
 crotch
 croup
 crow
@@ -1013,7 +966,6 @@ cub
 cuban
 cuckoo
 cucumber
-cuff-links
 cultivar
 cultivator
 culture
@@ -1260,13 +1212,10 @@ duffel
 dugout
 dulcimer
 dumbwaiter
-dump truck
-dune buggy
 dungarees
 dungeon
 duplexer
 dust
-dust storm
 duster
 duty
 dwarf
@@ -1286,7 +1235,6 @@ easel
 east
 eave
 eavesdropper
-e-book
 ecclesia
 eclipse
 ecliptic
@@ -1362,7 +1310,6 @@ epoxy
 equinox
 equipment
 era
-e-reader
 error
 escape
 espadrille
@@ -1379,7 +1326,6 @@ eurocentrism
 europe
 evaluator
 evening
-evening-wear
 event
 eviction
 evidence
@@ -1392,7 +1338,6 @@ exclamation
 excuse
 executor
 exhaust
-ex-husband
 exile
 existence
 exit
@@ -1405,7 +1350,6 @@ exposition
 extension
 extent
 extreme
-ex-wife
 eye
 eyeball
 eyebrow
@@ -1430,20 +1374,17 @@ fahrenheit
 fairies
 fairy
 fall
-falling-out
 familiar
 family
 fan
 fang
 fanlight
 fanny
-fanny-pack
 farm
 farmer
 fascia
 fat
 father
-father-in-law
 fatigues
 faucet
 fault
@@ -1519,7 +1460,6 @@ fleece
 flesh
 flight
 flintlock
-flip-flops
 flock
 flood
 floor
@@ -1544,7 +1484,6 @@ foot
 football
 footnote
 footrest
-foot-rest
 footstool
 foray
 force
@@ -1613,7 +1552,6 @@ future
 gaffer
 gaiters
 gale
-gall-bladder
 galleon
 gallery
 galley
@@ -1621,7 +1559,6 @@ gallon
 galoshes
 game
 gamebird
-gamma-ray
 gander
 gap
 garage
@@ -1642,7 +1579,6 @@ gauntlet
 gazebo
 gazelle
 gear
-gearshift
 geese
 gelding
 gem
@@ -1690,7 +1626,6 @@ goat
 gobbler
 godmother
 goggles
-go-kart
 gold
 goldfish
 golf
@@ -1698,18 +1633,15 @@ gondola
 gong
 good
 goodbye
-good-bye
 goodie
 goose
 gopher
-gore-tex
 gorilla
 gosling
 governance
 government
 governor
 gown
-grab-bag
 grade
 grain
 gram
@@ -1729,8 +1661,6 @@ grassland
 gray
 grease
 great
-great-grandfather
-great-grandmother
 greece
 greek
 green
@@ -1770,8 +1700,6 @@ hail
 hair
 haircut
 half
-half-brother
-half-sister
 halibut
 hall
 hallway
@@ -1782,7 +1710,6 @@ hammock
 hamster
 hand
 handball
-hand-holding
 handicap
 handle
 handlebar
@@ -1795,7 +1722,6 @@ hardboard
 hardcover
 hardening
 hardhat
-hard-hat
 hardware
 harm
 harmonica
@@ -1822,7 +1748,6 @@ heart
 heartache
 hearth
 hearthside
-heart-throb
 heartwood
 heat
 heater
@@ -1851,7 +1776,6 @@ heyday
 hide
 high
 highlight
-high-rise
 highway
 hill
 himalayan
@@ -1893,7 +1817,6 @@ host
 hostel
 hostess
 hot
-hot-dog
 hotel
 hour
 hourglass
@@ -1930,7 +1853,6 @@ hypothermia
 ice
 icebreaker
 icecream
-ice-cream
 icicle
 icon
 idea
@@ -1968,10 +1890,8 @@ inglenook
 ingrate
 initial
 initiative
-in-joke
 injury
 ink
-in-laws
 inlay
 inn
 innervation
@@ -2094,7 +2014,6 @@ keyboard
 keyboarding
 keystone
 kick
-kick-off
 kid
 kidney
 kidneys
@@ -2120,7 +2039,6 @@ knee
 kneejerk
 knickers
 knife
-knife-edge
 knight
 knitting
 knot
@@ -2211,7 +2129,6 @@ lightning
 lilac
 lily
 limit
-limo
 line
 linen
 liner
@@ -2289,7 +2206,6 @@ mailbox
 mailman
 maintenance
 major
-major-league
 makeup
 malaysia
 male
@@ -2390,14 +2306,9 @@ mexican
 mexico
 mezzanine
 mice
-michael
-michelle
-microlending
 microwave
-mid-course
 middle
 middleman
-midi
 midline
 midnight
 midwife
@@ -2416,10 +2327,8 @@ mine
 mini
 minibus
 minion
-mini-skirt
 minister
 minor
-minor-league
 mint
 minute
 mirror
@@ -2466,18 +2375,16 @@ moon
 moonscape
 moonshine
 mop
-Mormon
+mormon
 morning
 morocco
 morsel
 mortise
 mosque
 mosquito
-most
 motel
 moth
 mother
-mother-in-law
 motion
 motor
 motorboat
@@ -2504,9 +2411,7 @@ muscle
 musculature
 museum
 music
-music-box
 musician
-music-making
 mustache
 mustard
 mutt
@@ -2570,8 +2475,6 @@ noodle
 normal
 norse
 north
-north america
-north korea
 norwegian
 nose
 note
@@ -2618,7 +2521,6 @@ offence
 offer
 office
 official
-off-ramp
 oil
 okra
 oldie
@@ -2788,7 +2690,6 @@ pedestrian
 pediatrician
 peen
 peer
-peer-to-peer
 pegboard
 pelican
 pelt
@@ -2859,7 +2760,6 @@ pimp
 pimple
 pin
 pinafore
-pince-nez
 pine
 pineapple
 pinecone
@@ -2912,7 +2812,6 @@ plywood
 pneumonia
 pocket
 pocketbook
-pocket-watch
 poet
 poignance
 point
@@ -3007,7 +2906,6 @@ program
 project
 promotion
 prompt
-proof-reader
 propane
 property
 prose
@@ -3044,8 +2942,6 @@ purpose
 purse
 push
 pusher
-put
-pvc
 pyjama
 pyramid
 quadrant
@@ -3215,7 +3111,6 @@ robin
 rock
 rocker
 rocket
-rocket-ship
 rod
 role
 roll
@@ -3291,7 +3186,6 @@ satin
 satire
 saturday
 sauce
-saudi arabia
 sausage
 save
 saving
@@ -3329,7 +3223,6 @@ screen
 screenwriting
 screw
 screwdriver
-screw-up
 scrim
 scrip
 sculpting
@@ -3412,7 +3305,6 @@ shoat
 shock
 shoe
 shoehorn
-shoe-horn
 shoelace
 shoemaker
 shoes
@@ -3432,7 +3324,6 @@ shoulder
 shovel
 show
 shower
-show-stopper
 shred
 shrimp
 shrine
@@ -3464,7 +3355,6 @@ singer
 single
 sink
 sister
-sister-in-law
 sit
 sitar
 size
@@ -3556,9 +3446,6 @@ source
 sourwood
 sousaphone
 south
-south africa
-south america
-south korea
 sow
 soy
 soybean
@@ -3606,8 +3493,6 @@ spring
 sprinter
 sprout
 spruce
-spume
-spur
 spy
 square
 squash
@@ -3637,7 +3522,6 @@ starter
 state
 statement
 station
-station-wagon
 statistic
 statistician
 steak
@@ -3649,21 +3533,10 @@ steeple
 stem
 stencil
 step
-step-aunt
-step-brother
 stepdaughter
-step-daughter
-step-father
-step-grandfather
-step-grandmother
 stepmother
-step-mother
-stepping-stone
 steps
-step-sister
 stepson
-step-son
-step-uncle
 steven
 stew
 stick
@@ -3674,7 +3547,6 @@ stitch
 stock
 stocking
 stockings
-stock-in-trade
 stole
 stomach
 stone
@@ -3688,7 +3560,6 @@ storey
 storm
 story
 storyboard
-story-telling
 stove
 strait
 stranger
@@ -3760,7 +3631,7 @@ sushi
 suspect
 suspenders
 sustainment
-SUV
+sUV
 swallow
 swamp
 swan
@@ -3808,13 +3679,11 @@ talk
 tam
 tambour
 tambourine
-tam-o'-shanter
 tandem
 tangerine
 tank
 tanker
 tankful
-tank-top
 tanzania
 tap
 target
@@ -3930,7 +3799,6 @@ tom
 tomato
 tomography
 tomorrow
-tom-tom
 ton
 tongue
 toot
@@ -3939,7 +3807,6 @@ toothbrush
 toothpaste
 toothpick
 top
-top-hat
 topsail
 toque
 torchiere
@@ -3953,14 +3820,12 @@ total
 tote
 touch
 tough
-tough-guy
 tour
 tourist
 towel
 tower
 town
 townhouse
-tow-truck
 toy
 trachoma
 track
@@ -3987,6 +3852,7 @@ trapezium
 trapezoid
 trash
 travel
+traverse
 tray
 treatment
 tree
@@ -4016,7 +3882,6 @@ trumpet
 trunk
 trust
 try
-t-shirt
 tsunami
 tub
 tuba
@@ -4027,7 +3892,6 @@ tulip
 tummy
 tuna
 tune
-tune-up
 tunic
 tunnel
 turban
@@ -4071,7 +3935,6 @@ unibody
 uniform
 union
 unit
-united kingdom
 urn
 use
 usher
@@ -4164,7 +4027,6 @@ wannabe
 war
 warden
 warlock
-warm-up
 warning
 wash
 washbasin
@@ -4203,7 +4065,6 @@ weird
 well
 west
 western
-wet-bar
 wetsuit
 whale
 wharf
@@ -4226,7 +4087,6 @@ william
 willow
 wind
 windage
-wind-chime
 window
 windscreen
 windshield
@@ -4240,7 +4100,6 @@ wiseguy
 wish
 wisteria
 witch
-witch-hunt
 withdrawal
 witness
 wolf
@@ -4267,7 +4126,6 @@ wound
 wrap
 wraparound
 wrecker
-wren
 wrench
 wrestler
 wrinkle
@@ -4306,5 +4164,4 @@ zone
 zoo
 zoologist
 zoology
-zoot-suit
 zucchini
